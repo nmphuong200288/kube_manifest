@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: circleci-ecr-demo-app:build-66
+        image: circleci-ecr-demo-app:build-68
         ports:
         - containerPort: 80
